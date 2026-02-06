@@ -183,3 +183,12 @@ footer {
   border: 3px solid #d6b36a;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+
+.author-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #d6b36a;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+}
